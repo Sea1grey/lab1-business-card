@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Business card</string>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Сергей Балобанов</string>
+    <string name="group">Группа Б23-191-1</string>
+    <string name="contacts">Телеграм: @Sealgrey</string>
+    <string name="avatar_description">Фото профиля</string>
 </resources>

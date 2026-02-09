@@ -41,19 +41,19 @@ fun BusinessCardScreen(modifier: Modifier = Modifier) {
         Spacer(modifier = Modifier.height(16.dp))
 
         Text(
-            text = "Sergey Balobanov",
+            text = stringResource(R.string.full_name),
             style = MaterialTheme.typography.headlineMedium
         )
 
         Text(
-            text = "Group B23-191-1",
+            text = stringResource(R.string.group),
             style = MaterialTheme.typography.bodyMedium
         )
 
         Spacer(modifier = Modifier.height(24.dp))
 
         Text(
-            text = "Telegram: @Sealgrey",
+            text = stringResource(R.string.contacts),
             style = MaterialTheme.typography.bodySmall
         )
     }
