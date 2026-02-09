@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+        <string name="app_name">Business card</string>
+        <string name="full_name">Sergey Balpbanov</string>
+        <string name="group">Group Б23-191-1</string>
+        <string name="contacts">Telegram: @Sealgrey</string>
+        <string name="avatar_description">Profile photo</string>
+    </resources>
+</resources>
